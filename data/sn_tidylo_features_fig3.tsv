@@ -1,0 +1,646 @@
+type	feature	n
+ennius_narrative	MORPH_CASE_ABL	147.0
+ennius_narrative	MORPH_CASE_ACC	172.0
+ennius_narrative	MORPH_CASE_DAT	31.0
+ennius_narrative	MORPH_CASE_GEN	61.0
+ennius_narrative	MORPH_CASE_LOC	0.0
+ennius_narrative	MORPH_CASE_NOM	225.0
+ennius_narrative	MORPH_CASE_VOC	6.0
+ennius_narrative	MORPH_GENDER_FEM	173.0
+ennius_narrative	MORPH_GENDER_MASC	289.0
+ennius_narrative	MORPH_GENDER_NEUT	152.0
+ennius_narrative	MORPH_MOOD_GDV	4.0
+ennius_narrative	MORPH_MOOD_GER	3.0
+ennius_narrative	MORPH_MOOD_IMP	4.0
+ennius_narrative	MORPH_MOOD_IND	132.0
+ennius_narrative	MORPH_MOOD_SUB	21.0
+ennius_narrative	MORPH_NUMBER_PLUR	253.0
+ennius_narrative	MORPH_NUMBER_SING	556.0
+ennius_narrative	MORPH_PERSON_1	28.0
+ennius_narrative	MORPH_PERSON_2	10.0
+ennius_narrative	MORPH_PERSON_3	143.0
+ennius_narrative	MORPH_TENSE_FUT	11.0
+ennius_narrative	MORPH_TENSE_PAST	74.0
+ennius_narrative	MORPH_TENSE_PQP	1.0
+ennius_narrative	MORPH_TENSE_PRES	141.0
+ennius_narrative	MORPH_VERBFORM_FIN	157.0
+ennius_narrative	MORPH_VERBFORM_INF	16.0
+ennius_narrative	MORPH_VERBFORM_PART	54.0
+ennius_narrative	MORPH_VERBFORM_SUP	1.0
+ennius_narrative	MORPH_VOICE_ACT	150.0
+ennius_narrative	MORPH_VOICE_PASS	61.0
+ennius_narrative	POS_ADJ	116.0
+ennius_narrative	POS_ADP	60.0
+ennius_narrative	POS_ADV	65.0
+ennius_narrative	POS_AUX	16.0
+ennius_narrative	POS_CCONJ	79.0
+ennius_narrative	POS_DET	36.0
+ennius_narrative	POS_INTJ	3.0
+ennius_narrative	POS_NOUN	296.0
+ennius_narrative	POS_PART	11.0
+ennius_narrative	POS_PRON	53.0
+ennius_narrative	POS_PROPN	90.0
+ennius_narrative	POS_SCONJ	23.0
+ennius_narrative	POS_VERB	212.0
+ennius_speech	MORPH_CASE_ABL	14.0
+ennius_speech	MORPH_CASE_ACC	26.0
+ennius_speech	MORPH_CASE_DAT	2.0
+ennius_speech	MORPH_CASE_GEN	3.0
+ennius_speech	MORPH_CASE_LOC	0.0
+ennius_speech	MORPH_CASE_NOM	26.0
+ennius_speech	MORPH_CASE_VOC	5.0
+ennius_speech	MORPH_GENDER_FEM	19.0
+ennius_speech	MORPH_GENDER_MASC	29.0
+ennius_speech	MORPH_GENDER_NEUT	20.0
+ennius_speech	MORPH_MOOD_GDV	1.0
+ennius_speech	MORPH_MOOD_GER	0.0
+ennius_speech	MORPH_MOOD_IMP	0.0
+ennius_speech	MORPH_MOOD_IND	13.0
+ennius_speech	MORPH_MOOD_SUB	1.0
+ennius_speech	MORPH_NUMBER_PLUR	18.0
+ennius_speech	MORPH_NUMBER_SING	72.0
+ennius_speech	MORPH_PERSON_1	7.0
+ennius_speech	MORPH_PERSON_2	5.0
+ennius_speech	MORPH_PERSON_3	10.0
+ennius_speech	MORPH_TENSE_FUT	1.0
+ennius_speech	MORPH_TENSE_PAST	16.0
+ennius_speech	MORPH_TENSE_PQP	0.0
+ennius_speech	MORPH_TENSE_PRES	10.0
+ennius_speech	MORPH_VERBFORM_FIN	14.0
+ennius_speech	MORPH_VERBFORM_INF	7.0
+ennius_speech	MORPH_VERBFORM_PART	6.0
+ennius_speech	MORPH_VERBFORM_SUP	0.0
+ennius_speech	MORPH_VOICE_ACT	20.0
+ennius_speech	MORPH_VOICE_PASS	7.0
+ennius_speech	POS_ADJ	9.0
+ennius_speech	POS_ADP	7.0
+ennius_speech	POS_ADV	5.0
+ennius_speech	POS_AUX	0.0
+ennius_speech	POS_CCONJ	9.0
+ennius_speech	POS_DET	10.0
+ennius_speech	POS_INTJ	4.0
+ennius_speech	POS_NOUN	38.0
+ennius_speech	POS_PART	1.0
+ennius_speech	POS_PRON	9.0
+ennius_speech	POS_PROPN	4.0
+ennius_speech	POS_SCONJ	1.0
+ennius_speech	POS_VERB	27.0
+Valerius Flaccus_narrative	MORPH_CASE_ABL	3525.0
+Valerius Flaccus_narrative	MORPH_CASE_ACC	5262.0
+Valerius Flaccus_narrative	MORPH_CASE_DAT	586.0
+Valerius Flaccus_narrative	MORPH_CASE_GEN	1312.0
+Valerius Flaccus_narrative	MORPH_CASE_LOC	1.0
+Valerius Flaccus_narrative	MORPH_CASE_NOM	5075.0
+Valerius Flaccus_narrative	MORPH_CASE_VOC	55.0
+Valerius Flaccus_narrative	MORPH_GENDER_FEM	5274.0
+Valerius Flaccus_narrative	MORPH_GENDER_MASC	6695.0
+Valerius Flaccus_narrative	MORPH_GENDER_NEUT	3655.0
+Valerius Flaccus_narrative	MORPH_MOOD_GDV	22.0
+Valerius Flaccus_narrative	MORPH_MOOD_GER	6.0
+Valerius Flaccus_narrative	MORPH_MOOD_IMP	66.0
+Valerius Flaccus_narrative	MORPH_MOOD_IND	3135.0
+Valerius Flaccus_narrative	MORPH_MOOD_SUB	287.0
+Valerius Flaccus_narrative	MORPH_NUMBER_PLUR	6587.0
+Valerius Flaccus_narrative	MORPH_NUMBER_SING	12717.0
+Valerius Flaccus_narrative	MORPH_PERSON_1	60.0
+Valerius Flaccus_narrative	MORPH_PERSON_2	208.0
+Valerius Flaccus_narrative	MORPH_PERSON_3	3396.0
+Valerius Flaccus_narrative	MORPH_TENSE_FUT	101.0
+Valerius Flaccus_narrative	MORPH_TENSE_PAST	1759.0
+Valerius Flaccus_narrative	MORPH_TENSE_PQP	144.0
+Valerius Flaccus_narrative	MORPH_TENSE_PRES	3583.0
+Valerius Flaccus_narrative	MORPH_VERBFORM_FIN	3488.0
+Valerius Flaccus_narrative	MORPH_VERBFORM_INF	445.0
+Valerius Flaccus_narrative	MORPH_VERBFORM_PART	1654.0
+Valerius Flaccus_narrative	MORPH_VERBFORM_SUP	4.0
+Valerius Flaccus_narrative	MORPH_VOICE_ACT	4193.0
+Valerius Flaccus_narrative	MORPH_VOICE_PASS	1346.0
+Valerius Flaccus_narrative	POS_ADJ	3319.0
+Valerius Flaccus_narrative	POS_ADP	994.0
+Valerius Flaccus_narrative	POS_ADV	1706.0
+Valerius Flaccus_narrative	POS_AUX	48.0
+Valerius Flaccus_narrative	POS_CCONJ	2798.0
+Valerius Flaccus_narrative	POS_DET	1182.0
+Valerius Flaccus_narrative	POS_INTJ	37.0
+Valerius Flaccus_narrative	POS_NOUN	7569.0
+Valerius Flaccus_narrative	POS_PART	234.0
+Valerius Flaccus_narrative	POS_PRON	527.0
+Valerius Flaccus_narrative	POS_PROPN	1570.0
+Valerius Flaccus_narrative	POS_SCONJ	422.0
+Valerius Flaccus_narrative	POS_VERB	5504.0
+Valerius Flaccus_speech	MORPH_CASE_ABL	1368.0
+Valerius Flaccus_speech	MORPH_CASE_ACC	2740.0
+Valerius Flaccus_speech	MORPH_CASE_DAT	570.0
+Valerius Flaccus_speech	MORPH_CASE_GEN	631.0
+Valerius Flaccus_speech	MORPH_CASE_LOC	1.0
+Valerius Flaccus_speech	MORPH_CASE_NOM	2401.0
+Valerius Flaccus_speech	MORPH_CASE_VOC	94.0
+Valerius Flaccus_speech	MORPH_GENDER_FEM	2511.0
+Valerius Flaccus_speech	MORPH_GENDER_MASC	2903.0
+Valerius Flaccus_speech	MORPH_GENDER_NEUT	1865.0
+Valerius Flaccus_speech	MORPH_MOOD_GDV	18.0
+Valerius Flaccus_speech	MORPH_MOOD_GER	9.0
+Valerius Flaccus_speech	MORPH_MOOD_IMP	291.0
+Valerius Flaccus_speech	MORPH_MOOD_IND	1192.0
+Valerius Flaccus_speech	MORPH_MOOD_SUB	375.0
+Valerius Flaccus_speech	MORPH_NUMBER_PLUR	3349.0
+Valerius Flaccus_speech	MORPH_NUMBER_SING	6317.0
+Valerius Flaccus_speech	MORPH_PERSON_1	692.0
+Valerius Flaccus_speech	MORPH_PERSON_2	771.0
+Valerius Flaccus_speech	MORPH_PERSON_3	956.0
+Valerius Flaccus_speech	MORPH_TENSE_FUT	240.0
+Valerius Flaccus_speech	MORPH_TENSE_PAST	760.0
+Valerius Flaccus_speech	MORPH_TENSE_PQP	27.0
+Valerius Flaccus_speech	MORPH_TENSE_PRES	1670.0
+Valerius Flaccus_speech	MORPH_VERBFORM_FIN	1858.0
+Valerius Flaccus_speech	MORPH_VERBFORM_INF	315.0
+Valerius Flaccus_speech	MORPH_VERBFORM_PART	524.0
+Valerius Flaccus_speech	MORPH_VERBFORM_SUP	0.0
+Valerius Flaccus_speech	MORPH_VOICE_ACT	1995.0
+Valerius Flaccus_speech	MORPH_VOICE_PASS	594.0
+Valerius Flaccus_speech	POS_ADJ	1282.0
+Valerius Flaccus_speech	POS_ADP	387.0
+Valerius Flaccus_speech	POS_ADV	974.0
+Valerius Flaccus_speech	POS_AUX	108.0
+Valerius Flaccus_speech	POS_CCONJ	1207.0
+Valerius Flaccus_speech	POS_DET	1058.0
+Valerius Flaccus_speech	POS_INTJ	108.0
+Valerius Flaccus_speech	POS_NOUN	3593.0
+Valerius Flaccus_speech	POS_PART	201.0
+Valerius Flaccus_speech	POS_PRON	872.0
+Valerius Flaccus_speech	POS_PROPN	530.0
+Valerius Flaccus_speech	POS_SCONJ	269.0
+Valerius Flaccus_speech	POS_VERB	2564.0
+gnaeus_naevius_narrative	MORPH_CASE_ABL	78.0
+gnaeus_naevius_narrative	MORPH_CASE_ACC	156.0
+gnaeus_naevius_narrative	MORPH_CASE_DAT	10.0
+gnaeus_naevius_narrative	MORPH_CASE_GEN	60.0
+gnaeus_naevius_narrative	MORPH_CASE_LOC	2.0
+gnaeus_naevius_narrative	MORPH_CASE_NOM	128.0
+gnaeus_naevius_narrative	MORPH_CASE_VOC	7.0
+gnaeus_naevius_narrative	MORPH_GENDER_FEM	126.0
+gnaeus_naevius_narrative	MORPH_GENDER_MASC	219.0
+gnaeus_naevius_narrative	MORPH_GENDER_NEUT	91.0
+gnaeus_naevius_narrative	MORPH_MOOD_GDV	1.0
+gnaeus_naevius_narrative	MORPH_MOOD_GER	0.0
+gnaeus_naevius_narrative	MORPH_MOOD_IMP	9.0
+gnaeus_naevius_narrative	MORPH_MOOD_IND	100.0
+gnaeus_naevius_narrative	MORPH_MOOD_SUB	12.0
+gnaeus_naevius_narrative	MORPH_NUMBER_PLUR	167.0
+gnaeus_naevius_narrative	MORPH_NUMBER_SING	408.0
+gnaeus_naevius_narrative	MORPH_PERSON_1	2.0
+gnaeus_naevius_narrative	MORPH_PERSON_2	12.0
+gnaeus_naevius_narrative	MORPH_PERSON_3	112.0
+gnaeus_naevius_narrative	MORPH_TENSE_FUT	6.0
+gnaeus_naevius_narrative	MORPH_TENSE_PAST	49.0
+gnaeus_naevius_narrative	MORPH_TENSE_PQP	3.0
+gnaeus_naevius_narrative	MORPH_TENSE_PRES	96.0
+gnaeus_naevius_narrative	MORPH_VERBFORM_FIN	121.0
+gnaeus_naevius_narrative	MORPH_VERBFORM_INF	12.0
+gnaeus_naevius_narrative	MORPH_VERBFORM_PART	21.0
+gnaeus_naevius_narrative	MORPH_VERBFORM_SUP	0.0
+gnaeus_naevius_narrative	MORPH_VOICE_ACT	119.0
+gnaeus_naevius_narrative	MORPH_VOICE_PASS	24.0
+gnaeus_naevius_narrative	POS_ADJ	80.0
+gnaeus_naevius_narrative	POS_ADP	49.0
+gnaeus_naevius_narrative	POS_ADV	49.0
+gnaeus_naevius_narrative	POS_AUX	11.0
+gnaeus_naevius_narrative	POS_CCONJ	30.0
+gnaeus_naevius_narrative	POS_DET	33.0
+gnaeus_naevius_narrative	POS_INTJ	2.0
+gnaeus_naevius_narrative	POS_NOUN	210.0
+gnaeus_naevius_narrative	POS_PART	4.0
+gnaeus_naevius_narrative	POS_PRON	22.0
+gnaeus_naevius_narrative	POS_PROPN	117.0
+gnaeus_naevius_narrative	POS_SCONJ	13.0
+gnaeus_naevius_narrative	POS_VERB	143.0
+Ovid_narrative	MORPH_CASE_ABL	6895.0
+Ovid_narrative	MORPH_CASE_ACC	9947.0
+Ovid_narrative	MORPH_CASE_DAT	1141.0
+Ovid_narrative	MORPH_CASE_GEN	2348.0
+Ovid_narrative	MORPH_CASE_LOC	7.0
+Ovid_narrative	MORPH_CASE_NOM	9260.0
+Ovid_narrative	MORPH_CASE_VOC	130.0
+Ovid_narrative	MORPH_GENDER_FEM	10447.0
+Ovid_narrative	MORPH_GENDER_MASC	11051.0
+Ovid_narrative	MORPH_GENDER_NEUT	7698.0
+Ovid_narrative	MORPH_MOOD_GDV	67.0
+Ovid_narrative	MORPH_MOOD_GER	74.0
+Ovid_narrative	MORPH_MOOD_IMP	153.0
+Ovid_narrative	MORPH_MOOD_IND	7487.0
+Ovid_narrative	MORPH_MOOD_SUB	786.0
+Ovid_narrative	MORPH_NUMBER_PLUR	11764.0
+Ovid_narrative	MORPH_NUMBER_SING	26399.0
+Ovid_narrative	MORPH_PERSON_1	502.0
+Ovid_narrative	MORPH_PERSON_2	622.0
+Ovid_narrative	MORPH_PERSON_3	7800.0
+Ovid_narrative	MORPH_TENSE_FUT	393.0
+Ovid_narrative	MORPH_TENSE_PAST	5379.0
+Ovid_narrative	MORPH_TENSE_PQP	408.0
+Ovid_narrative	MORPH_TENSE_PRES	6732.0
+Ovid_narrative	MORPH_VERBFORM_FIN	8427.0
+Ovid_narrative	MORPH_VERBFORM_INF	1174.0
+Ovid_narrative	MORPH_VERBFORM_PART	3312.0
+Ovid_narrative	MORPH_VERBFORM_SUP	2.0
+Ovid_narrative	MORPH_VOICE_ACT	8469.0
+Ovid_narrative	MORPH_VOICE_PASS	3251.0
+Ovid_narrative	POS_ADJ	5257.0
+Ovid_narrative	POS_ADP	2150.0
+Ovid_narrative	POS_ADV	2590.0
+Ovid_narrative	POS_AUX	1194.0
+Ovid_narrative	POS_CCONJ	5123.0
+Ovid_narrative	POS_DET	2606.0
+Ovid_narrative	POS_INTJ	60.0
+Ovid_narrative	POS_NOUN	14624.0
+Ovid_narrative	POS_PART	551.0
+Ovid_narrative	POS_PRON	1545.0
+Ovid_narrative	POS_PROPN	2280.0
+Ovid_narrative	POS_SCONJ	1083.0
+Ovid_narrative	POS_VERB	11720.0
+Ovid_speech	MORPH_CASE_ABL	3588.0
+Ovid_speech	MORPH_CASE_ACC	5835.0
+Ovid_speech	MORPH_CASE_DAT	1007.0
+Ovid_speech	MORPH_CASE_GEN	1419.0
+Ovid_speech	MORPH_CASE_LOC	3.0
+Ovid_speech	MORPH_CASE_NOM	5712.0
+Ovid_speech	MORPH_CASE_VOC	172.0
+Ovid_speech	MORPH_GENDER_FEM	6069.0
+Ovid_speech	MORPH_GENDER_MASC	6177.0
+Ovid_speech	MORPH_GENDER_NEUT	4588.0
+Ovid_speech	MORPH_MOOD_GDV	75.0
+Ovid_speech	MORPH_MOOD_GER	40.0
+Ovid_speech	MORPH_MOOD_IMP	407.0
+Ovid_speech	MORPH_MOOD_IND	4378.0
+Ovid_speech	MORPH_MOOD_SUB	804.0
+Ovid_speech	MORPH_NUMBER_PLUR	6787.0
+Ovid_speech	MORPH_NUMBER_SING	16530.0
+Ovid_speech	MORPH_PERSON_1	1535.0
+Ovid_speech	MORPH_PERSON_2	1278.0
+Ovid_speech	MORPH_PERSON_3	3691.0
+Ovid_speech	MORPH_TENSE_FUT	548.0
+Ovid_speech	MORPH_TENSE_PAST	2732.0
+Ovid_speech	MORPH_TENSE_PQP	161.0
+Ovid_speech	MORPH_TENSE_PRES	4599.0
+Ovid_speech	MORPH_VERBFORM_FIN	5591.0
+Ovid_speech	MORPH_VERBFORM_INF	832.0
+Ovid_speech	MORPH_VERBFORM_PART	1620.0
+Ovid_speech	MORPH_VERBFORM_SUP	0.0
+Ovid_speech	MORPH_VOICE_ACT	5162.0
+Ovid_speech	MORPH_VOICE_PASS	1917.0
+Ovid_speech	POS_ADJ	2978.0
+Ovid_speech	POS_ADP	1165.0
+Ovid_speech	POS_ADV	1702.0
+Ovid_speech	POS_AUX	962.0
+Ovid_speech	POS_CCONJ	2926.0
+Ovid_speech	POS_DET	2039.0
+Ovid_speech	POS_INTJ	96.0
+Ovid_speech	POS_NOUN	8287.0
+Ovid_speech	POS_PART	450.0
+Ovid_speech	POS_PRON	1708.0
+Ovid_speech	POS_PROPN	1079.0
+Ovid_speech	POS_SCONJ	787.0
+Ovid_speech	POS_VERB	7079.0
+Ilias Latina_narrative	MORPH_CASE_ABL	875.0
+Ilias Latina_narrative	MORPH_CASE_ACC	1235.0
+Ilias Latina_narrative	MORPH_CASE_DAT	106.0
+Ilias Latina_narrative	MORPH_CASE_GEN	309.0
+Ilias Latina_narrative	MORPH_CASE_LOC	1.0
+Ilias Latina_narrative	MORPH_CASE_NOM	1159.0
+Ilias Latina_narrative	MORPH_CASE_VOC	12.0
+Ilias Latina_narrative	MORPH_GENDER_FEM	1046.0
+Ilias Latina_narrative	MORPH_GENDER_MASC	1795.0
+Ilias Latina_narrative	MORPH_GENDER_NEUT	809.0
+Ilias Latina_narrative	MORPH_MOOD_GDV	4.0
+Ilias Latina_narrative	MORPH_MOOD_GER	3.0
+Ilias Latina_narrative	MORPH_MOOD_IMP	13.0
+Ilias Latina_narrative	MORPH_MOOD_IND	901.0
+Ilias Latina_narrative	MORPH_MOOD_SUB	70.0
+Ilias Latina_narrative	MORPH_NUMBER_PLUR	1657.0
+Ilias Latina_narrative	MORPH_NUMBER_SING	3032.0
+Ilias Latina_narrative	MORPH_PERSON_1	15.0
+Ilias Latina_narrative	MORPH_PERSON_2	31.0
+Ilias Latina_narrative	MORPH_PERSON_3	977.0
+Ilias Latina_narrative	MORPH_TENSE_FUT	11.0
+Ilias Latina_narrative	MORPH_TENSE_PAST	482.0
+Ilias Latina_narrative	MORPH_TENSE_PQP	42.0
+Ilias Latina_narrative	MORPH_TENSE_PRES	830.0
+Ilias Latina_narrative	MORPH_VERBFORM_FIN	984.0
+Ilias Latina_narrative	MORPH_VERBFORM_INF	63.0
+Ilias Latina_narrative	MORPH_VERBFORM_PART	318.0
+Ilias Latina_narrative	MORPH_VERBFORM_SUP	0.0
+Ilias Latina_narrative	MORPH_VOICE_ACT	1008.0
+Ilias Latina_narrative	MORPH_VOICE_PASS	341.0
+Ilias Latina_narrative	POS_ADJ	735.0
+Ilias Latina_narrative	POS_ADP	267.0
+Ilias Latina_narrative	POS_ADV	340.0
+Ilias Latina_narrative	POS_AUX	16.0
+Ilias Latina_narrative	POS_CCONJ	618.0
+Ilias Latina_narrative	POS_DET	241.0
+Ilias Latina_narrative	POS_INTJ	2.0
+Ilias Latina_narrative	POS_NOUN	1707.0
+Ilias Latina_narrative	POS_PART	34.0
+Ilias Latina_narrative	POS_PRON	139.0
+Ilias Latina_narrative	POS_PROPN	558.0
+Ilias Latina_narrative	POS_SCONJ	91.0
+Ilias Latina_narrative	POS_VERB	1346.0
+Ilias Latina_speech	MORPH_CASE_ABL	114.0
+Ilias Latina_speech	MORPH_CASE_ACC	168.0
+Ilias Latina_speech	MORPH_CASE_DAT	21.0
+Ilias Latina_speech	MORPH_CASE_GEN	51.0
+Ilias Latina_speech	MORPH_CASE_LOC	0.0
+Ilias Latina_speech	MORPH_CASE_NOM	156.0
+Ilias Latina_speech	MORPH_CASE_VOC	10.0
+Ilias Latina_speech	MORPH_GENDER_FEM	141.0
+Ilias Latina_speech	MORPH_GENDER_MASC	226.0
+Ilias Latina_speech	MORPH_GENDER_NEUT	121.0
+Ilias Latina_speech	MORPH_MOOD_GDV	0.0
+Ilias Latina_speech	MORPH_MOOD_GER	0.0
+Ilias Latina_speech	MORPH_MOOD_IMP	24.0
+Ilias Latina_speech	MORPH_MOOD_IND	97.0
+Ilias Latina_speech	MORPH_MOOD_SUB	31.0
+Ilias Latina_speech	MORPH_NUMBER_PLUR	199.0
+Ilias Latina_speech	MORPH_NUMBER_SING	473.0
+Ilias Latina_speech	MORPH_PERSON_1	40.0
+Ilias Latina_speech	MORPH_PERSON_2	71.0
+Ilias Latina_speech	MORPH_PERSON_3	73.0
+Ilias Latina_speech	MORPH_TENSE_FUT	21.0
+Ilias Latina_speech	MORPH_TENSE_PAST	65.0
+Ilias Latina_speech	MORPH_TENSE_PQP	4.0
+Ilias Latina_speech	MORPH_TENSE_PRES	117.0
+Ilias Latina_speech	MORPH_VERBFORM_FIN	152.0
+Ilias Latina_speech	MORPH_VERBFORM_INF	21.0
+Ilias Latina_speech	MORPH_VERBFORM_PART	34.0
+Ilias Latina_speech	MORPH_VERBFORM_SUP	0.0
+Ilias Latina_speech	MORPH_VOICE_ACT	147.0
+Ilias Latina_speech	MORPH_VOICE_PASS	51.0
+Ilias Latina_speech	POS_ADJ	88.0
+Ilias Latina_speech	POS_ADP	40.0
+Ilias Latina_speech	POS_ADV	47.0
+Ilias Latina_speech	POS_AUX	9.0
+Ilias Latina_speech	POS_CCONJ	52.0
+Ilias Latina_speech	POS_DET	64.0
+Ilias Latina_speech	POS_INTJ	10.0
+Ilias Latina_speech	POS_NOUN	226.0
+Ilias Latina_speech	POS_PART	4.0
+Ilias Latina_speech	POS_PRON	54.0
+Ilias Latina_speech	POS_PROPN	55.0
+Ilias Latina_speech	POS_SCONJ	23.0
+Ilias Latina_speech	POS_VERB	198.0
+Statius_narrative	MORPH_CASE_ABL	5902.0
+Statius_narrative	MORPH_CASE_ACC	8712.0
+Statius_narrative	MORPH_CASE_DAT	1023.0
+Statius_narrative	MORPH_CASE_GEN	2035.0
+Statius_narrative	MORPH_CASE_LOC	5.0
+Statius_narrative	MORPH_CASE_NOM	8720.0
+Statius_narrative	MORPH_CASE_VOC	69.0
+Statius_narrative	MORPH_GENDER_FEM	8499.0
+Statius_narrative	MORPH_GENDER_MASC	11244.0
+Statius_narrative	MORPH_GENDER_NEUT	6516.0
+Statius_narrative	MORPH_MOOD_GDV	48.0
+Statius_narrative	MORPH_MOOD_GER	35.0
+Statius_narrative	MORPH_MOOD_IMP	103.0
+Statius_narrative	MORPH_MOOD_IND	5244.0
+Statius_narrative	MORPH_MOOD_SUB	437.0
+Statius_narrative	MORPH_NUMBER_PLUR	11458.0
+Statius_narrative	MORPH_NUMBER_SING	20793.0
+Statius_narrative	MORPH_PERSON_1	139.0
+Statius_narrative	MORPH_PERSON_2	313.0
+Statius_narrative	MORPH_PERSON_3	5531.0
+Statius_narrative	MORPH_TENSE_FUT	218.0
+Statius_narrative	MORPH_TENSE_PAST	3408.0
+Statius_narrative	MORPH_TENSE_PQP	207.0
+Statius_narrative	MORPH_TENSE_PRES	5865.0
+Statius_narrative	MORPH_VERBFORM_FIN	5784.0
+Statius_narrative	MORPH_VERBFORM_INF	881.0
+Statius_narrative	MORPH_VERBFORM_PART	3033.0
+Statius_narrative	MORPH_VERBFORM_SUP	11.0
+Statius_narrative	MORPH_VOICE_ACT	6993.0
+Statius_narrative	MORPH_VOICE_PASS	2588.0
+Statius_narrative	POS_ADJ	5644.0
+Statius_narrative	POS_ADP	1449.0
+Statius_narrative	POS_ADV	2643.0
+Statius_narrative	POS_AUX	118.0
+Statius_narrative	POS_CCONJ	4622.0
+Statius_narrative	POS_DET	1775.0
+Statius_narrative	POS_INTJ	41.0
+Statius_narrative	POS_NOUN	13169.0
+Statius_narrative	POS_PART	383.0
+Statius_narrative	POS_PRON	710.0
+Statius_narrative	POS_PROPN	2133.0
+Statius_narrative	POS_SCONJ	616.0
+Statius_narrative	POS_VERB	9591.0
+Statius_speech	MORPH_CASE_ABL	3383.0
+Statius_speech	MORPH_CASE_ACC	6370.0
+Statius_speech	MORPH_CASE_DAT	1013.0
+Statius_speech	MORPH_CASE_GEN	1541.0
+Statius_speech	MORPH_CASE_LOC	12.0
+Statius_speech	MORPH_CASE_NOM	5977.0
+Statius_speech	MORPH_CASE_VOC	235.0
+Statius_speech	MORPH_GENDER_FEM	5609.0
+Statius_speech	MORPH_GENDER_MASC	7605.0
+Statius_speech	MORPH_GENDER_NEUT	4558.0
+Statius_speech	MORPH_MOOD_GDV	56.0
+Statius_speech	MORPH_MOOD_GER	30.0
+Statius_speech	MORPH_MOOD_IMP	459.0
+Statius_speech	MORPH_MOOD_IND	3055.0
+Statius_speech	MORPH_MOOD_SUB	567.0
+Statius_speech	MORPH_NUMBER_PLUR	7961.0
+Statius_speech	MORPH_NUMBER_SING	14658.0
+Statius_speech	MORPH_PERSON_1	1099.0
+Statius_speech	MORPH_PERSON_2	1360.0
+Statius_speech	MORPH_PERSON_3	2427.0
+Statius_speech	MORPH_TENSE_FUT	438.0
+Statius_speech	MORPH_TENSE_PAST	1967.0
+Statius_speech	MORPH_TENSE_PQP	67.0
+Statius_speech	MORPH_TENSE_PRES	4020.0
+Statius_speech	MORPH_VERBFORM_FIN	4081.0
+Statius_speech	MORPH_VERBFORM_INF	783.0
+Statius_speech	MORPH_VERBFORM_PART	1628.0
+Statius_speech	MORPH_VERBFORM_SUP	6.0
+Statius_speech	MORPH_VOICE_ACT	4673.0
+Statius_speech	MORPH_VOICE_PASS	1628.0
+Statius_speech	POS_ADJ	3773.0
+Statius_speech	POS_ADP	950.0
+Statius_speech	POS_ADV	1887.0
+Statius_speech	POS_AUX	191.0
+Statius_speech	POS_CCONJ	2976.0
+Statius_speech	POS_DET	1621.0
+Statius_speech	POS_INTJ	171.0
+Statius_speech	POS_NOUN	8698.0
+Statius_speech	POS_PART	435.0
+Statius_speech	POS_PRON	1404.0
+Statius_speech	POS_PROPN	1478.0
+Statius_speech	POS_SCONJ	542.0
+Statius_speech	POS_VERB	6307.0
+Silius Italicus_narrative	MORPH_CASE_ABL	8782.0
+Silius Italicus_narrative	MORPH_CASE_ACC	10953.0
+Silius Italicus_narrative	MORPH_CASE_DAT	1395.0
+Silius Italicus_narrative	MORPH_CASE_GEN	2976.0
+Silius Italicus_narrative	MORPH_CASE_LOC	15.0
+Silius Italicus_narrative	MORPH_CASE_NOM	9789.0
+Silius Italicus_narrative	MORPH_CASE_VOC	95.0
+Silius Italicus_narrative	MORPH_GENDER_FEM	10622.0
+Silius Italicus_narrative	MORPH_GENDER_MASC	14068.0
+Silius Italicus_narrative	MORPH_GENDER_NEUT	8909.0
+Silius Italicus_narrative	MORPH_MOOD_GDV	71.0
+Silius Italicus_narrative	MORPH_MOOD_GER	98.0
+Silius Italicus_narrative	MORPH_MOOD_IMP	148.0
+Silius Italicus_narrative	MORPH_MOOD_IND	5835.0
+Silius Italicus_narrative	MORPH_MOOD_SUB	587.0
+Silius Italicus_narrative	MORPH_NUMBER_PLUR	13293.0
+Silius Italicus_narrative	MORPH_NUMBER_SING	27281.0
+Silius Italicus_narrative	MORPH_PERSON_1	224.0
+Silius Italicus_narrative	MORPH_PERSON_2	425.0
+Silius Italicus_narrative	MORPH_PERSON_3	6223.0
+Silius Italicus_narrative	MORPH_TENSE_FUT	366.0
+Silius Italicus_narrative	MORPH_TENSE_PAST	5114.0
+Silius Italicus_narrative	MORPH_TENSE_PQP	295.0
+Silius Italicus_narrative	MORPH_TENSE_PRES	6416.0
+Silius Italicus_narrative	MORPH_VERBFORM_FIN	6570.0
+Silius Italicus_narrative	MORPH_VERBFORM_INF	1246.0
+Silius Italicus_narrative	MORPH_VERBFORM_PART	4377.0
+Silius Italicus_narrative	MORPH_VERBFORM_SUP	15.0
+Silius Italicus_narrative	MORPH_VOICE_ACT	8391.0
+Silius Italicus_narrative	MORPH_VOICE_PASS	3542.0
+Silius Italicus_narrative	POS_ADJ	6803.0
+Silius Italicus_narrative	POS_ADP	2212.0
+Silius Italicus_narrative	POS_ADV	2715.0
+Silius Italicus_narrative	POS_AUX	263.0
+Silius Italicus_narrative	POS_CCONJ	4906.0
+Silius Italicus_narrative	POS_DET	1557.0
+Silius Italicus_narrative	POS_INTJ	56.0
+Silius Italicus_narrative	POS_NOUN	17208.0
+Silius Italicus_narrative	POS_PART	523.0
+Silius Italicus_narrative	POS_PRON	986.0
+Silius Italicus_narrative	POS_PROPN	3063.0
+Silius Italicus_narrative	POS_SCONJ	854.0
+Silius Italicus_narrative	POS_VERB	11920.0
+Silius Italicus_speech	MORPH_CASE_ABL	3490.0
+Silius Italicus_speech	MORPH_CASE_ACC	5532.0
+Silius Italicus_speech	MORPH_CASE_DAT	941.0
+Silius Italicus_speech	MORPH_CASE_GEN	1454.0
+Silius Italicus_speech	MORPH_CASE_LOC	25.0
+Silius Italicus_speech	MORPH_CASE_NOM	4629.0
+Silius Italicus_speech	MORPH_CASE_VOC	165.0
+Silius Italicus_speech	MORPH_GENDER_FEM	5217.0
+Silius Italicus_speech	MORPH_GENDER_MASC	6102.0
+Silius Italicus_speech	MORPH_GENDER_NEUT	4325.0
+Silius Italicus_speech	MORPH_MOOD_GDV	66.0
+Silius Italicus_speech	MORPH_MOOD_GER	44.0
+Silius Italicus_speech	MORPH_MOOD_IMP	423.0
+Silius Italicus_speech	MORPH_MOOD_IND	2677.0
+Silius Italicus_speech	MORPH_MOOD_SUB	611.0
+Silius Italicus_speech	MORPH_NUMBER_PLUR	6418.0
+Silius Italicus_speech	MORPH_NUMBER_SING	13541.0
+Silius Italicus_speech	MORPH_PERSON_1	718.0
+Silius Italicus_speech	MORPH_PERSON_2	1083.0
+Silius Italicus_speech	MORPH_PERSON_3	2506.0
+Silius Italicus_speech	MORPH_TENSE_FUT	515.0
+Silius Italicus_speech	MORPH_TENSE_PAST	2004.0
+Silius Italicus_speech	MORPH_TENSE_PQP	89.0
+Silius Italicus_speech	MORPH_TENSE_PRES	3424.0
+Silius Italicus_speech	MORPH_VERBFORM_FIN	3711.0
+Silius Italicus_speech	MORPH_VERBFORM_INF	663.0
+Silius Italicus_speech	MORPH_VERBFORM_PART	1658.0
+Silius Italicus_speech	MORPH_VERBFORM_SUP	3.0
+Silius Italicus_speech	MORPH_VOICE_ACT	4265.0
+Silius Italicus_speech	MORPH_VOICE_PASS	1507.0
+Silius Italicus_speech	POS_ADJ	2987.0
+Silius Italicus_speech	POS_ADP	1099.0
+Silius Italicus_speech	POS_ADV	1349.0
+Silius Italicus_speech	POS_AUX	264.0
+Silius Italicus_speech	POS_CCONJ	2057.0
+Silius Italicus_speech	POS_DET	1238.0
+Silius Italicus_speech	POS_INTJ	150.0
+Silius Italicus_speech	POS_NOUN	7877.0
+Silius Italicus_speech	POS_PART	361.0
+Silius Italicus_speech	POS_PRON	1067.0
+Silius Italicus_speech	POS_PROPN	1440.0
+Silius Italicus_speech	POS_SCONJ	535.0
+Silius Italicus_speech	POS_VERB	5756.0
+Virgil_narrative	MORPH_CASE_ABL	6176.0
+Virgil_narrative	MORPH_CASE_ACC	8809.0
+Virgil_narrative	MORPH_CASE_DAT	978.0
+Virgil_narrative	MORPH_CASE_GEN	1897.0
+Virgil_narrative	MORPH_CASE_LOC	13.0
+Virgil_narrative	MORPH_CASE_NOM	7868.0
+Virgil_narrative	MORPH_CASE_VOC	69.0
+Virgil_narrative	MORPH_GENDER_FEM	8079.0
+Virgil_narrative	MORPH_GENDER_MASC	11083.0
+Virgil_narrative	MORPH_GENDER_NEUT	6289.0
+Virgil_narrative	MORPH_MOOD_GDV	18.0
+Virgil_narrative	MORPH_MOOD_GER	38.0
+Virgil_narrative	MORPH_MOOD_IMP	39.0
+Virgil_narrative	MORPH_MOOD_IND	5395.0
+Virgil_narrative	MORPH_MOOD_SUB	351.0
+Virgil_narrative	MORPH_NUMBER_PLUR	10831.0
+Virgil_narrative	MORPH_NUMBER_SING	20836.0
+Virgil_narrative	MORPH_PERSON_1	328.0
+Virgil_narrative	MORPH_PERSON_2	181.0
+Virgil_narrative	MORPH_PERSON_3	5583.0
+Virgil_narrative	MORPH_TENSE_FUT	121.0
+Virgil_narrative	MORPH_TENSE_PAST	3483.0
+Virgil_narrative	MORPH_TENSE_PQP	182.0
+Virgil_narrative	MORPH_TENSE_PRES	5510.0
+Virgil_narrative	MORPH_VERBFORM_FIN	5785.0
+Virgil_narrative	MORPH_VERBFORM_INF	709.0
+Virgil_narrative	MORPH_VERBFORM_PART	2802.0
+Virgil_narrative	MORPH_VERBFORM_SUP	11.0
+Virgil_narrative	MORPH_VOICE_ACT	6586.0
+Virgil_narrative	MORPH_VOICE_PASS	2500.0
+Virgil_narrative	POS_ADJ	5003.0
+Virgil_narrative	POS_ADP	1877.0
+Virgil_narrative	POS_ADV	2276.0
+Virgil_narrative	POS_AUX	214.0
+Virgil_narrative	POS_CCONJ	4586.0
+Virgil_narrative	POS_DET	1816.0
+Virgil_narrative	POS_INTJ	48.0
+Virgil_narrative	POS_NOUN	12638.0
+Virgil_narrative	POS_PART	295.0
+Virgil_narrative	POS_PRON	906.0
+Virgil_narrative	POS_PROPN	2618.0
+Virgil_narrative	POS_SCONJ	544.0
+Virgil_narrative	POS_VERB	9093.0
+Virgil_speech	MORPH_CASE_ABL	2762.0
+Virgil_speech	MORPH_CASE_ACC	5430.0
+Virgil_speech	MORPH_CASE_DAT	920.0
+Virgil_speech	MORPH_CASE_GEN	1236.0
+Virgil_speech	MORPH_CASE_LOC	2.0
+Virgil_speech	MORPH_CASE_NOM	4497.0
+Virgil_speech	MORPH_CASE_VOC	267.0
+Virgil_speech	MORPH_GENDER_FEM	4888.0
+Virgil_speech	MORPH_GENDER_MASC	5556.0
+Virgil_speech	MORPH_GENDER_NEUT	3809.0
+Virgil_speech	MORPH_MOOD_GDV	34.0
+Virgil_speech	MORPH_MOOD_GER	26.0
+Virgil_speech	MORPH_MOOD_IMP	535.0
+Virgil_speech	MORPH_MOOD_IND	2628.0
+Virgil_speech	MORPH_MOOD_SUB	606.0
+Virgil_speech	MORPH_NUMBER_PLUR	6374.0
+Virgil_speech	MORPH_NUMBER_SING	12517.0
+Virgil_speech	MORPH_PERSON_1	1136.0
+Virgil_speech	MORPH_PERSON_2	1348.0
+Virgil_speech	MORPH_PERSON_3	2148.0
+Virgil_speech	MORPH_TENSE_FUT	545.0
+Virgil_speech	MORPH_TENSE_PAST	1603.0
+Virgil_speech	MORPH_TENSE_PQP	68.0
+Virgil_speech	MORPH_TENSE_PRES	3277.0
+Virgil_speech	MORPH_VERBFORM_FIN	3769.0
+Virgil_speech	MORPH_VERBFORM_INF	660.0
+Virgil_speech	MORPH_VERBFORM_PART	1064.0
+Virgil_speech	MORPH_VERBFORM_SUP	6.0
+Virgil_speech	MORPH_VOICE_ACT	3973.0
+Virgil_speech	MORPH_VOICE_PASS	1204.0
+Virgil_speech	POS_ADJ	2528.0
+Virgil_speech	POS_ADP	874.0
+Virgil_speech	POS_ADV	1255.0
+Virgil_speech	POS_AUX	320.0
+Virgil_speech	POS_CCONJ	2223.0
+Virgil_speech	POS_DET	1585.0
+Virgil_speech	POS_INTJ	146.0
+Virgil_speech	POS_NOUN	6948.0
+Virgil_speech	POS_PART	320.0
+Virgil_speech	POS_PRON	1569.0
+Virgil_speech	POS_PROPN	1444.0
+Virgil_speech	POS_SCONJ	498.0
+Virgil_speech	POS_VERB	5179.0
